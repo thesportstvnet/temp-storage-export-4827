@@ -1,9 +1,12 @@
-name: Update Sportzx Streams
+name: Update
 
 on:
   schedule:
     - cron: '*/10 * * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-json:
@@ -19,18 +22,19 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
       - name: Run Sportzx client
         run: python testt.py
         env:
           OUTPUT_FILE: "output.json"
-          # optional: SPORTZX_EXCLUDED_CATEGORIES: '["adult","test"]'
 
       - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Auto-update streams (every 10 min)"
-          file_pattern: "output.json"
-          commit_user_name: "GitHub Action"
-          commit_user_email: "action@github.com"
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add output.json
+          git diff --cached --quiet || git commit -m "Auto-update streams (every 10 min)"
+          git push
