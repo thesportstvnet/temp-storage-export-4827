@@ -15,13 +15,17 @@ APP_PASSWORD = "oAR80SGuX3EEjUGFRwLFKBTiris="
 # An event is considered "Live" if the current UTC time is:
 #   - AFTER the event start time, AND
 #   - BEFORE the event start time + LIVE_WINDOW_HOURS
-# Everything outside that window is "Upcoming".
+# Events past the live window are marked "Ended" and excluded from the output.
 LIVE_WINDOW_HOURS = 6
 
 
 def compute_status(event_time_str: str) -> str:
     """
-    Determine Live or Upcoming from a GMT/UTC event_time string.
+    Determine Live, Upcoming, or Ended from a GMT/UTC event_time string.
+    Returns:
+      'Live'     — event started within the last LIVE_WINDOW_HOURS
+      'Upcoming' — event has not started yet
+      'Ended'    — event started more than LIVE_WINDOW_HOURS ago (should be excluded)
     Accepts formats: 'YYYY-MM-DD HH:MM' or 'YYYY/MM/DD HH:MM'
     """
     if not event_time_str:
@@ -31,6 +35,8 @@ def compute_status(event_time_str: str) -> str:
         event_dt = datetime.strptime(clean, "%Y-%m-%d %H:%M").replace(tzinfo=timezone.utc)
         now = datetime.now(timezone.utc)
         end_dt = event_dt + timedelta(hours=LIVE_WINDOW_HOURS)
+        if now >= end_dt:
+            return "Ended"       # event window has fully passed — exclude it
         if event_dt <= now < end_dt:
             return "Live"
         return "Upcoming"
@@ -315,8 +321,8 @@ class SportzxClient:
         """
         # Group channels by event_id — preserve insertion order for stable output
         events_map: Dict[str, dict] = {}
-
         skipped_http = 0
+        skipped_ended = 0
 
         for ch in channels:
             # Skip non-HTTPS streams
@@ -328,13 +334,21 @@ class SportzxClient:
 
             if eid not in events_map:
                 status = compute_status(ch.event_time)
+                if status == "Ended":
+                    # Mark as ended so all subsequent servers for this event are skipped too
+                    events_map[eid] = None
+                    skipped_ended += 1
+                    continue
                 events_map[eid] = {
                     "title":      ch.event_name or ch.event_title,
                     "category":   ch.event_cat,
-                    "event_time": ch.event_time,   # kept for reference / debugging
+                    "event_time": ch.event_time,   # UTC — kept for PHP dynamic recompute
                     "status":     status,
                     "servers":    [],
                 }
+            elif events_map[eid] is None:
+                # This event was already marked as ended — skip its servers
+                continue
 
             server_entry = {
                 "name":    ch.channel_title or "Server",
@@ -343,7 +357,8 @@ class SportzxClient:
             }
             events_map[eid]["servers"].append(server_entry)
 
-        output_data = list(events_map.values())
+        # Filter out None (ended) entries
+        output_data = [e for e in events_map.values() if e is not None]
 
         # Stats
         live_count     = sum(1 for e in output_data if e["status"] == "Live")
@@ -355,7 +370,7 @@ class SportzxClient:
 
         print(f"✅ Saved {len(output_data)} events ({live_count} Live, {upcoming_count} Upcoming) to {filename}")
         print(f"   Total streams: {server_count}")
-        print(f"⏭️  Skipped {skipped_http} non-HTTPS streams")
+        print(f"⏭️  Skipped {skipped_http} non-HTTPS streams, {skipped_ended} ended events")
 
 
 # ────────────────────────────────────────────────
