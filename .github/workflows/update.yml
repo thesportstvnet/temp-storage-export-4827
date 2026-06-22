@@ -26,7 +26,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run Sportzx client
-        run: python sportzx_client.py
+        run: python testt.py
         env:
           OUTPUT_FILE: "output.json"
           # Optional: set categories to exclude
