@@ -30,6 +30,7 @@ jobs:
         run: python testt.py
         env:
           OUTPUT_FILE: "output.json"
+          # optional: SPORTZX_EXCLUDED_CATEGORIES: '["adult","test"]'
 
       - name: Commit and push changes
         run: |
