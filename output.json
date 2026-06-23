@@ -74,7 +74,7 @@
     "title": "🥊 WWE Monday Night RAW",
     "category": "WWE",
     "event_time": "2026-06-23 00:00",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
       {
         "name": "SportzX WWE",
@@ -150,7 +150,7 @@
     "title": "Minnesota Twins vs Dodgers",
     "category": "MLB",
     "event_time": "2026-06-22 23:40",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
       {
         "name": "SportzX LIVE",
@@ -163,7 +163,7 @@
     "title": "Cardinals vs Arizona Diamondbacks",
     "category": "MLB",
     "event_time": "2026-06-22 23:45",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
       {
         "name": "SportzX Live",
@@ -228,7 +228,7 @@
     "title": "Atlanta Dream vs Toronto Tempo",
     "category": "WNBA",
     "event_time": "2026-06-22 23:30",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
       {
         "name": "SportzX Live",
@@ -324,7 +324,7 @@
   {
     "title": "France vs Iraq",
     "category": "FIFA World Cup",
-    "event_time": "2026-06-22 21:00",
+    "event_time": "2026-06-23 00:00",
     "status": "Live",
     "servers": [
       {
@@ -378,6 +378,11 @@
         "drm_key": ""
       },
       {
+        "name": "TRT SPORTS 2K",
+        "url": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
+        "drm_key": ""
+      },
+      {
         "name": "TSN SPORTS [ALT]",
         "url": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
         "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
@@ -394,7 +399,7 @@
       },
       {
         "name": "ARABIC LIVE FHD",
-        "url": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/-6XnHVtNdXM2i_QJuHqWsodeVGp5yxyrNf7Z9bOicgngVsSXZGj0FtJHMC17cOdI6kXZuf39ikFYUfzD9UURfg/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
+        "url": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/Kkboo70-zdCaYuQrI8rYViBCk1pBE7z_r4XHk0LmypwuNR_26gB4DFf4RevI-GjylyJl2B3MWj420-7-CZ6Jnw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
         "drm_key": ""
       },
       {
@@ -416,11 +421,6 @@
         "name": "FUSSBALL TV 4K",
         "url": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd",
         "drm_key": "4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03"
-      },
-      {
-        "name": "TRT SPORTS 2K",
-        "url": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
-        "drm_key": ""
       },
       {
         "name": "IRIB 4K",
@@ -588,12 +588,12 @@
     "title": "Norway vs Senegal",
     "category": "FIFA World Cup",
     "event_time": "2026-06-23 00:00",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
       {
-        "name": "RTE SPORTS FHD",
-        "url": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/76cf20f1-26ae-421b-9677-72b5c5543103:BRU/manifest.mpd",
-        "drm_key": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d"
+        "name": "RTE PLAYER FHD",
+        "url": "https://live.rte.ie/live/tc-1/vc3/vc3.isml/.mpd?dvr_window_length=90&available=1782167100&expiry=1782212400&ip=89.184.62.154&filter=systemBitrate%3C%3D7000000&token1=ce87effc9e6c15479dc5ec7ca26dbd855db5ce04e71caf87c96de9bb34ca433d",
+        "drm_key": "49c1810e4a14d689128b68d136bee8ab:a19757b5653bcd3d93c1b7710339386a"
       },
       {
         "name": "FIFA WC FEED",
@@ -602,7 +602,17 @@
       },
       {
         "name": "RTB GOLIVE FHD",
-        "url": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
+        "url": "https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8",
+        "drm_key": ""
+      },
+      {
+        "name": "SportzX FHD LIVE",
+        "url": "https://soccerball.st/s1.php",
+        "drm_key": ""
+      },
+      {
+        "name": "TSN SPORTS HD",
+        "url": "https://storage.googleapis.com/msnuke4/mainnet/manifest.m3u8",
         "drm_key": ""
       },
       {
@@ -619,6 +629,11 @@
         "name": "D Sports FHD",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
         "drm_key": "f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921"
+      },
+      {
+        "name": "TUDN ViX FHD",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+        "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
       },
       {
         "name": "TELEMUNDO FHD",
@@ -702,7 +717,12 @@
       },
       {
         "name": "FAST SERVER",
-        "url": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgnvmN2iVDfk.m3u8?txSecret=788aff98d4d43e7ae7c7fd7c6a87d75c&txTime=6A36EDF8",
+        "url": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgdE6MDtzcQE.m3u8?txSecret=3104a2b2ea930430c8481f5deed1f19c&txTime=6A39F278",
+        "drm_key": ""
+      },
+      {
+        "name": "TOFFEE BD FHD",
+        "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/0/master_3000.m3u8?hdntl=Expires=1782258008~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwveVKDsJLldYNdjFj-LF-1ZdYsd2QMUS60jUxAu93DRikZxASFLCjBbctrrozIaxIcPJ7WrRthHEbLe6DIuqQ6ML",
         "drm_key": ""
       },
       {
@@ -2063,7 +2083,7 @@
     "title": "Chicago White Sox vs Cleveland Guardians",
     "category": "MLB",
     "event_time": "2026-06-22 23:40",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
       {
         "name": "SportzX Live",
