@@ -201,12 +201,12 @@
     "title": "England vs New Zealand",
     "category": "Cricket",
     "event_time": "2026-06-25 10:00",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
       {
         "name": "WILLOW FHD",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/l2h5bdvlpd/out/v1/5fbcd0ec9fe044598d6f36f844300079/cenc.mpd",
-        "drm_key": "b4496b9a9e83b9dc0dedba157712ad1c:189df9061b7c96db75bb8d60bdc18c73"
+        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/b6djbkac7i/out/v1/dcbd6e8854f347e88aa930f86749a874/cenc.mpd",
+        "drm_key": "65d2015d222aafe7d1848b800e5cf64c:d044090c84196787b83c540653cc52d2"
       },
       {
         "name": "SKY CRICKET FHD",
@@ -215,8 +215,8 @@
       },
       {
         "name": "WILLOW ALT",
-        "url": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/l2h5bdvlpd/out/v1/5fbcd0ec9fe044598d6f36f844300079/cenc.mpd",
-        "drm_key": "b4496b9a9e83b9dc0dedba157712ad1c:189df9061b7c96db75bb8d60bdc18c73"
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b6djbkac7i/out/v1/dcbd6e8854f347e88aa930f86749a874/cenc.mpd",
+        "drm_key": "65d2015d222aafe7d1848b800e5cf64c:d044090c84196787b83c540653cc52d2"
       },
       {
         "name": "SKY MAIN EVENT",
@@ -224,8 +224,13 @@
         "drm_key": ""
       },
       {
+        "name": "SKY SPORT NZ",
+        "url": "https://tmaxapp.site/skynz1.m3u8",
+        "drm_key": ""
+      },
+      {
         "name": "SonyLiv",
-        "url": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000296/England_2006/ENG/master.m3u8",
+        "url": "https://dai.google.com/ssai/event/XpIbI0pTQX-9mvR458k9aw/master.m3u8?hdnea=exp=1782419410~acl=/*~id=b13c7ca22427446aa65cacff732e5bd0-1782376200191~hmac=e47f0428cfdfd2606d6fac79c58df6067ee4d0bebb80a21346dd3b73709881c1",
         "drm_key": ""
       }
     ]
