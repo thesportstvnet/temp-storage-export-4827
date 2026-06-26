@@ -3,7 +3,7 @@
     "title": "Formula 1 - Austria GP",
     "category": "F1",
     "event_time": "2026-06-26 11:30",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
       {
         "name": "FANCODE FHD",
@@ -41,13 +41,18 @@
         "drm_key": ""
       },
       {
+        "name": "F1 GERMANY [USA]",
+        "url": "https://simplitv-live.mdn.ors.at/live/eds/sky_sport_f1_hd/dash/sky_sport_f1_hd.mpd",
+        "drm_key": "6695688f79dc36f7a41f7db13bff5aca:22ef689af2162aefbf745cba2adb4fe9"
+      },
+      {
         "name": "Tipik FRANCE FHD",
         "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
         "drm_key": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a"
       },
       {
         "name": "SKY SPORTS HD",
-        "url": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?",
+        "url": "https://edge2caster.pro/hls/hbfkazbkaznc49.m3u8?",
         "drm_key": ""
       },
       {
@@ -76,7 +81,7 @@
     "title": "Ireland vs India",
     "category": "Cricket",
     "event_time": "2026-06-26 12:30",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
       {
         "name": "WILLOW FHD",
@@ -114,7 +119,7 @@
     "title": "ONE Friday Fights",
     "category": "Boxing",
     "event_time": "2026-06-26 12:30",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
       {
         "name": "One Fight FHD",
