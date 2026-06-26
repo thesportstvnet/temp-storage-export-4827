@@ -7,48 +7,43 @@
     "servers": [
       {
         "name": "FANCODE FHD",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+        "url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
         "drm_key": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe"
       },
       {
-        "name": "beIN SPORTS FHD",
-        "url": "https://RCG-BKS400-06.starhubgo.com/bpk-token/1ab@kjminpxbrbv3nm022hgilyq044kcdk11kxqdaxda/bpk-tv/BeINSportsHD/output/manifest.mpd",
-        "drm_key": "4c4b013320654277a19df8f14b80b6c5:4751e8a9d798c2a1e1c581f179771f48"
-      },
-      {
-        "name": "SKY SPORTS DE",
-        "url": "https://simplitv-live.mdn.ors.at/live/eds/sky_sport_f1_hd/dash/sky_sport_f1_hd.mpd",
-        "drm_key": "6695688f79dc36f7a41f7db13bff5aca:22ef689af2162aefbf745cba2adb4fe9"
-      },
-      {
         "name": "SportzX F1 HD",
-        "url": "https://chatgpt.hereisman.net/playlist/51883/load-playlist?",
+        "url": "https://chatgpt.hereisman.net/playlist/52517/load-playlist?",
         "drm_key": ""
-      },
-      {
-        "name": "SKY GERMAN FHD",
-        "url": "https://nog-live1-ott.izzigo.tv/8/out/u/dash/F1-HD-H265/default.mpd",
-        "drm_key": "ae7f16191e2adfaacd9b536ed58a298a:3319b3ca5cd6f0af2f3d4bd9a7630a8b"
-      },
-      {
-        "name": "Tipik FRANCE FHD",
-        "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L5/cd1fd9ab/23b52321.isml/.mpd",
-        "drm_key": "ed52a165d7e947a1b5d6358eb05fbceb:3569ad9af6dc5a12bb7d5f69cca95345"
       },
       {
         "name": "SKY SPORTS FHD",
-        "url": "https://oe1.ossfeed.store/out/v2/2b8554438cb37f5ffc8c792962d2fabf/tracks-v0a0/mono.m3u8",
+        "url": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/8977c6ac6f223921fe330e74808321e0/index.m3u8?",
         "drm_key": ""
       },
       {
-        "name": "DAZN ESPANOL HD",
-        "url": "https://oe1.ossfeed.store/out/v2/2b8554438cb37f5ffc8c792962d2fabf/tracks-v0a0/mono.m3u8",
+        "name": "DAZN ESPANOL",
+        "url": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/053885fcb23afa8c714d7c365de9c928/index.m3u8?",
         "drm_key": ""
       },
       {
         "name": "SKY ITALY FHD",
-        "url": "https://oe1.ossfeed.store/out/v2/984e389e76455ff421cd4f2aa19ce2d1/tracks-v0a0/mono.m3u8",
+        "url": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/3a80e1c254551ba268416f3a752d9c14/index.m3u8?",
         "drm_key": ""
+      },
+      {
+        "name": "LOW RES",
+        "url": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/b927ea9a648871f9c0d00da01e4b9732/index.m3u8?",
+        "drm_key": ""
+      },
+      {
+        "name": "SKY SPORTS F1",
+        "url": "https://xstm.250909.cc/live/SPORTSFLUX-POOL-20acb0a9c8/5ffe6c552a88/1037.m3u8",
+        "drm_key": ""
+      },
+      {
+        "name": "Tipik FRANCE FHD",
+        "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+        "drm_key": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a"
       },
       {
         "name": "SKY SPORTS HD",
@@ -279,12 +274,12 @@
     "title": "England vs New Zealand",
     "category": "Cricket",
     "event_time": "2026-06-26 10:00",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
       {
         "name": "WILLOW FHD",
-        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/b6djbkac7i/out/v1/dcbd6e8854f347e88aa930f86749a874/cenc.mpd",
-        "drm_key": "65d2015d222aafe7d1848b800e5cf64c:d044090c84196787b83c540653cc52d2"
+        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/nozef97xag/out/v1/d914986951c04c639cd7a6f67ab27dc5/cenc.mpd",
+        "drm_key": "3a30b4c29151709f4878395d7246a150:825bd600ed2fa677195974879847a11e"
       },
       {
         "name": "SKY CRICKET FHD",
@@ -293,8 +288,8 @@
       },
       {
         "name": "WILLOW ALT",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b6djbkac7i/out/v1/dcbd6e8854f347e88aa930f86749a874/cenc.mpd",
-        "drm_key": "65d2015d222aafe7d1848b800e5cf64c:d044090c84196787b83c540653cc52d2"
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nozef97xag/out/v1/d914986951c04c639cd7a6f67ab27dc5/cenc.mpd",
+        "drm_key": "3a30b4c29151709f4878395d7246a150:825bd600ed2fa677195974879847a11e"
       },
       {
         "name": "SKY MAIN EVENT",
