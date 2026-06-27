@@ -7,12 +7,12 @@
     "servers": [
       {
         "name": "FANCODE FHD",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
         "drm_key": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe"
       },
       {
         "name": "TSN SPORTS FHD",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
         "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
       },
       {
@@ -26,23 +26,18 @@
         "drm_key": ""
       },
       {
-        "name": "APPLE TV FHD",
-        "url": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/87541992a2401ae4b19f7bd6b0cafcce/index.m3u8?",
-        "drm_key": ""
-      },
-      {
         "name": "DAZN ESPANOL",
-        "url": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/bcc79f2b4a086f9997212023667c182c/index.m3u8?",
+        "url": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/bbae016bb7b4268f9840a1811c507545/index.m3u8?",
         "drm_key": ""
       },
       {
         "name": "SKY ITALY FHD",
-        "url": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/08d4d8edf496b1e52b0bba1a2973b8cf/index.m3u8?",
+        "url": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/fbf28db395c645bb9a171ade16e90d36/index.m3u8?",
         "drm_key": ""
       },
       {
-        "name": "LOW RES",
-        "url": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/21c7006dc2f78af00d68074937f6d054/index.m3u8?",
+        "name": "MULTI FEED",
+        "url": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/6870f75b27a22fdeae9dd393da742e55/index.m3u8?",
         "drm_key": ""
       },
       {
@@ -310,8 +305,8 @@
     "servers": [
       {
         "name": "WILLOW FHD",
-        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/nozef97xag/out/v1/d914986951c04c639cd7a6f67ab27dc5/cenc.mpd",
-        "drm_key": "3a30b4c29151709f4878395d7246a150:825bd600ed2fa677195974879847a11e"
+        "url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9shuubgs2n/out/v1/71d22d03b6d145c097696ceb34c94193/cenc.mpd",
+        "drm_key": "a1a1f05aaa3fd3bdbee4943cc2c93ae1:bee71825b52bd2810a0085b834d7da6e"
       },
       {
         "name": "SKY CRICKET FHD",
@@ -320,8 +315,8 @@
       },
       {
         "name": "WILLOW ALT",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nozef97xag/out/v1/d914986951c04c639cd7a6f67ab27dc5/cenc.mpd",
-        "drm_key": "3a30b4c29151709f4878395d7246a150:825bd600ed2fa677195974879847a11e"
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9shuubgs2n/out/v1/71d22d03b6d145c097696ceb34c94193/cenc.mpd",
+        "drm_key": "a1a1f05aaa3fd3bdbee4943cc2c93ae1:bee71825b52bd2810a0085b834d7da6e"
       },
       {
         "name": "SKY MAIN EVENT",
@@ -335,7 +330,12 @@
       },
       {
         "name": "SonyLiv",
-        "url": "https://dai.google.com/ssai/event/XpIbI0pTQX-9mvR458k9aw/master.m3u8?hdnea=exp=1782419410~acl=/*~id=b13c7ca22427446aa65cacff732e5bd0-1782376200191~hmac=e47f0428cfdfd2606d6fac79c58df6067ee4d0bebb80a21346dd3b73709881c1",
+        "url": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8?hdnea=exp=1782592214~acl=/*~id=8aaddbbca7e2cf5bd61a43d82d2560b1-1782549000245~hmac=391bb99ea28c5b9d20513e97c67843fe3a16afc65aa1c65039fc01b89ff3bf5d",
+        "drm_key": ""
+      },
+      {
+        "name": "FOX CRICKET HD",
+        "url": "https://tmaxapp.site/foxcricket.m3u8",
         "drm_key": ""
       }
     ]
@@ -798,442 +798,6 @@
         "name": "D SPORTS ES",
         "url": "https://live06.zuqiu106.com/live/79635460.m3u8",
         "drm_key": ""
-      }
-    ]
-  },
-  {
-    "title": "Egypt vs Iran",
-    "category": "FIFA World Cup",
-    "event_time": "2026-06-27 03:00",
-    "status": "Live",
-    "servers": [
-      {
-        "name": "FOX SPORTS - AQ",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/3eckcsaoqz/out/v1/e8f0a2204c5c4490b338a9c2165dd92a/cenc.mpd",
-        "drm_key": "996d39be9ee1c8e65d94d7bb973bdf0f:5306cdc1e410bc6ddb2530608c42b11b"
-      },
-      {
-        "name": "TSN SPORTS FHD",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-        "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
-      },
-      {
-        "name": "TIPIK FR FHD",
-        "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
-        "drm_key": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a"
-      },
-      {
-        "name": "BBC SPORTS HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52599/load-playlist?",
-        "drm_key": ""
-      },
-      {
-        "name": "FOX SPORTS HD",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd",
-        "drm_key": "d7d78ea2021a29541136bd5dc8352fe7:6425ac4c0cdf906fe0cce5cf40dc8933"
-      },
-      {
-        "name": "D Sports FHD",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
-        "drm_key": "4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a"
-      },
-      {
-        "name": "CAZE TV FHD",
-        "url": "https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd",
-        "drm_key": "ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6"
-      },
-      {
-        "name": "TSN SPORTS HD",
-        "url": "https://nhjjhhjhjjhfjj.pages.dev/1782542541/d6252e90f0b04850bf3a732cdc3cc7e5/JgwF-iXffdfoe30jbmxIlBxb2Yj5F2JxNkrkl_YMMzo/tsn2-ca.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "FOX SPORTS HD",
-        "url": "https://nhjjhhjhjjhfjj.pages.dev/1782542523/49afdce5f7e3496993a1db5d8339dd08/XStPdGfE4zy3dCNX7blRTUw93HFKThiNoqKGXYVXTT4/fox-sports-1.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "TOFFEE BD FHD",
-        "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-6/0/master_2000.m3u8?hdntl=Expires=1782613217~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvdm0p8VN5a1VjwYaIM7zc4xVpMds-AZxv0CbjeE-Z3VZBmeq_tEiiN8qFoco28Cf23h2modnnQYvi3wxWVg-4oH",
-        "drm_key": ""
-      },
-      {
-        "name": "beIN MAX FHD",
-        "url": "https://nhjjhhjhjjhfjj.pages.dev/1782542559/0c83cef047744384a7527cc67c28012a/hMYmUqmJna-4FY-2pjfrHcCH-hdCycCskUhhm6vUEIo/beinsportsmax-sa.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "CT SPORTS CZ",
-        "url": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
-        "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-      },
-      {
-        "name": "TVP SPORTS HD",
-        "url": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
-        "drm_key": "0:0"
-      },
-      {
-        "name": "FAST SERVER",
-        "url": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDg885JoSWnbg.m3u8?txSecret=e0e299b2637573d27df3112284b4a242&txTime=6A3F6230",
-        "drm_key": ""
-      },
-      {
-        "name": "UNIVERSEO HD",
-        "url": "https://instreams.pro/US/NFLHD4/tracks-v1a1/mono.m3u8?",
-        "drm_key": ""
-      },
-      {
-        "name": "TSN Sports FHD",
-        "url": "https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-        "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
-      },
-      {
-        "name": "FOX SPORTS HD",
-        "url": "https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-        "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
-      },
-      {
-        "name": "TSN SPORTS [ALT]",
-        "url": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-        "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
-      },
-      {
-        "name": "FOX SPORTS [ALT]",
-        "url": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-        "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
-      },
-      {
-        "name": "PEACOCK FHD [ALT]",
-        "url": "https://g003-sle-us-cmaf-prd-cc.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021350-723208-4911fd37e88)/master_2hr.mpd?c3.ri=6a3f315a_Q1ZYMDc_0_Q09NQ0FTVA_9b6ec003c663%3A0&aws.sessionId=9bb5fea5-c3d2-4fb8-9cdc-4f3b4c7612f9&ck=eyIwMDIyMmY3NWU5M2I3ZmUwNDdjMDkzY2ViMmY3ZGFiMCI6IjExOThmYWE3MTE5ODcxZDkzZDBlZmNkZjc2MDNjNDFlIn0%3D",
-        "drm_key": "00222f75e93b7fe047c093ceb2f7dab0:1198faa7119871d93d0efcdf7603c41e"
-      },
-      {
-        "name": "TELEMUNDO [USA]",
-        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
-        "drm_key": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f"
-      },
-      {
-        "name": "FOX SPORTS 4K",
-        "url": "https://lb.xyzcloud3.xyz/fs14k/index.m3u8?",
-        "drm_key": ""
-      },
-      {
-        "name": "FOX 4K LIVE",
-        "url": "https://nhjjhhjhjjhfjj.pages.dev/1782542581/0adc1ca3c0cc48bca5115a2c10570177/TVzorvq8FH8gf1nKHx3nMzir2WNj-8Kw1FfcVCMMpgc/fox-sports-1-4k.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "FUSSBALL TV 4K",
-        "url": "https://nhjjhhjhjjhfjj.pages.dev/1782542596/e653e8fc6a9445e694ce6c5a8a6dade0/oDMIPIkxTztyBq9kjsppVKJ8QYynjJ0YB9B2RZwNwd4/fusballtv2uhd-de.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "ARABIC LIVE FHD",
-        "url": "https://lb.xyzcloud3.xyz/bein2/index.m3u8?",
-        "drm_key": ""
-      },
-      {
-        "name": "NBC UNIVERSO FHD",
-        "url": "https://lb.xyzcloud3.xyz/UNIVERSO/index.m3u8?",
-        "drm_key": ""
-      },
-      {
-        "name": "FUSSBALL TV1 4K",
-        "url": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd",
-        "drm_key": "4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03"
-      },
-      {
-        "name": "FUSSBALL TV2 4K",
-        "url": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd",
-        "drm_key": "ccdf9f3d9bbf5c508adf04f81918a285:66cf0524fcc2eb0c7dab8bbbf8829827"
-      },
-      {
-        "name": "IRIB 4K",
-        "url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "FOX SPORTS HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52597/load-playlist?",
-        "drm_key": ""
-      },
-      {
-        "name": "TSN SPORTS HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52601/load-playlist?",
-        "drm_key": ""
-      },
-      {
-        "name": "ISCREEN BD (BDIX)",
-        "url": "https://pastebin.com/raw/AFnPnGzQ?e=.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "SportzX Live",
-        "url": "https://instreams.pro/EU/HDWC3/tracks-v1a1/mono.m3u8?",
-        "drm_key": ""
-      },
-      {
-        "name": "TYC SPORTS HD",
-        "url": "https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "DAZN SPANISH",
-        "url": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "HD SERVER EN",
-        "url": "https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?",
-        "drm_key": ""
-      },
-      {
-        "name": "HD SERVER AR",
-        "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?",
-        "drm_key": ""
-      },
-      {
-        "name": "MATCH TV RU",
-        "url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
-        "drm_key": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114"
-      },
-      {
-        "name": "FUSSBALL 4K [GER]",
-        "url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
-        "drm_key": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac"
-      },
-      {
-        "name": "FUSSBALL2 4K [GER]",
-        "url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd",
-        "drm_key": "1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5"
-      },
-      {
-        "name": "FUSSBALL TV FHD",
-        "url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
-        "drm_key": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269"
-      },
-      {
-        "name": "FUSSBALL2 TV FHD",
-        "url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_hd/DASH/index.mpd",
-        "drm_key": "1889c6c8cdf57aa3bc90bb976ca6cbdc:48ef3649d9076965b70e79e58b0028ef"
-      },
-      {
-        "name": "TELEMUNDO [ALT]",
-        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-        "drm_key": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1"
-      }
-    ]
-  },
-  {
-    "title": "New Zealand vs Belgium",
-    "category": "FIFA World Cup",
-    "event_time": "2026-06-27 03:00",
-    "status": "Live",
-    "servers": [
-      {
-        "name": "FOX SPORTS - AQ",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ng45k16ryt/out/v1/9e895e2c1c894a75ac6d21a4deddd5d3/cenc.mpd",
-        "drm_key": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
-      },
-      {
-        "name": "CTV SPORTS FHD",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eqpuae7ql0/out/v1/3ee0a774288446558a786b0d93fafa4e/cenc.mpd",
-        "drm_key": "f58142cad3c596f586fb9960e506b13e:4a5194d672e94b538d3cd6a7fcd0b1aa"
-      },
-      {
-        "name": "FOX SPORTS HD",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd",
-        "drm_key": "0cc2f872759c96de70237e6fa6de03d0:a879b1d38ed002d4018bce96f9219b8d"
-      },
-      {
-        "name": "WC TV FHD",
-        "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
-        "drm_key": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb"
-      },
-      {
-        "name": "BBC SPORTS HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52600/load-playlist?",
-        "drm_key": ""
-      },
-      {
-        "name": "TSN SPORTS FHD",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-        "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-      },
-      {
-        "name": "FOX ONE FHD",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-        "drm_key": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
-      },
-      {
-        "name": "DSports FHD",
-        "url": "https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
-        "drm_key": "4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a"
-      },
-      {
-        "name": "CAZE TV FHD",
-        "url": "https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
-        "drm_key": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38"
-      },
-      {
-        "name": "TSN SPORTS HD",
-        "url": "https://nhjjhhjhjjhfjj.pages.dev/1782542347/3721be6081fc4bb9a2ac025f9a7f99aa/HbzYJRVP038shZGoU_wye4BHvv9cxLpunRgCUmTwEWo/tsn1-ca.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "FOX SPORTS HD",
-        "url": "https://nhjjhhjhjjhfjj.pages.dev/1782542312/a1846957079e41799485afa0d1ef4e63/uXOHsxclZ2EerKm2N13bKyI8_4bf614MUB4E8sCDry0/fox-usa.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "TOFFE BDIX (BD)",
-        "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/0/master_2000.m3u8?hdntl=Expires=1782613215~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvci0sEQW61immPRTKFJl3Gy4VaiI-oin_WHxR4IHk6r9pFElGX0crDzvHClgDzRDwQOenUU-NlJ-C1DAy8cJoUP",
-        "drm_key": ""
-      },
-      {
-        "name": "FAST SERVER",
-        "url": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDhJQmD9yED1G.m3u8?txSecret=be0962eb776e2c61eda8cb6d6b26fa2b&txTime=6A3F6230",
-        "drm_key": ""
-      },
-      {
-        "name": "beIN MAX FHD",
-        "url": "https://nhjjhhjhjjhfjj.pages.dev/1782542366/ac435e7650914311849509163936e75d/WAZAkRNQaAPQxxfAvT1my2j200RxBZBxqk1_7dAmJno/beinsportsmax2-sa.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "TELEMUNDO HD",
-        "url": "https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8?",
-        "drm_key": ""
-      },
-      {
-        "name": "TSN Sports FHD",
-        "url": "https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-        "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-      },
-      {
-        "name": "FOX ONE FHD",
-        "url": "https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-        "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
-      },
-      {
-        "name": "FOX ONE [ALT]",
-        "url": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-        "drm_key": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
-      },
-      {
-        "name": "TSN SPORTS [ALT]",
-        "url": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-        "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-      },
-      {
-        "name": "PEACOCK FHD [ALT]",
-        "url": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021349-723207-4911fc43c47)/master_2hr.mpd?c3.ri=6a3f30d9_Q1ZYMDc_0_RkFTVExZ_a4d905bcd176%3A0&aws.sessionId=330533df-0dc0-4689-9374-7ae0e0fa7bdd&ck=eyIwMDIyN2YyZTBlNTU3ZjYwY2M4MTk2ODc2NzRmNmZkNSI6IjY3MGE5YmZiOTRiNzNkMWRkMzFjNWE4YTRjYjAwMTg0In0%3D",
-        "drm_key": "00227f2e0e557f60cc819687674f6fd5:670a9bfb94b73d1dd31c5a8a4cb00184"
-      },
-      {
-        "name": "TELEMUNDO [USA]",
-        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
-        "drm_key": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11"
-      },
-      {
-        "name": "FOX ONE 4K",
-        "url": "https://lb.xyzcloud3.xyz/fox4k/index.m3u8?",
-        "drm_key": ""
-      },
-      {
-        "name": "FOX 4K LIVE",
-        "url": "https://nhjjhhjhjjhfjj.pages.dev/1782542410/81e3f7a45769483f9722659c217c932a/kXFAAoD1JjNPI5eOLIqODUK1yERYQ9Ry6_jFyZcxrTQ/fox4k-usa.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "TSN SPORTS 4K",
-        "url": "https://lb.xyzcloud3.xyz/tsn4k/index.m3u8?",
-        "drm_key": ""
-      },
-      {
-        "name": "FUSSBALL TV 4K",
-        "url": "https://nhjjhhjhjjhfjj.pages.dev/1782542388/5b30401fff074b68bb75781ec61bfb56/fPgwkb40g5rW3MEl4Ai_ZEsm6th_k4QU6SeQoEFmsng/fusballtv1uhd-de.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "TELEMUNDO FHD",
-        "url": "https://nhjjhhjhjjhfjj.pages.dev/1782536820/f09f9287b56847f193dabb4602442bf8/0yeIxjz4Tuh59m4PC1mCb6M5eYF6ep56hkuwvvRiU0I/telemundo-usa.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "FUSSBALL TV 4K",
-        "url": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd",
-        "drm_key": "4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03"
-      },
-      {
-        "name": "FUSSBALL TV2 4K",
-        "url": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd",
-        "drm_key": "ccdf9f3d9bbf5c508adf04f81918a285:66cf0524fcc2eb0c7dab8bbbf8829827"
-      },
-      {
-        "name": "IRIB 4K",
-        "url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "TSN SPORTS HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52602/load-playlist?",
-        "drm_key": ""
-      },
-      {
-        "name": "FOX SPORTS HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52598/load-playlist?",
-        "drm_key": ""
-      },
-      {
-        "name": "SportzX Live",
-        "url": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8?",
-        "drm_key": ""
-      },
-      {
-        "name": "HD SERVER ENG",
-        "url": "https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?",
-        "drm_key": ""
-      },
-      {
-        "name": "HD SERVER AR",
-        "url": "https://edge2caster.pro/hls/sqdahach1ax.m3u8?",
-        "drm_key": ""
-      },
-      {
-        "name": "MATCH TV RU",
-        "url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
-        "drm_key": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114"
-      },
-      {
-        "name": "DAZN SPANISH",
-        "url": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "FUSSBALL 4K [GER]",
-        "url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
-        "drm_key": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac"
-      },
-      {
-        "name": "FUSSBALL2 4K [GER]",
-        "url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd",
-        "drm_key": "1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5"
-      },
-      {
-        "name": "FUSSBALL TV FHD",
-        "url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
-        "drm_key": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269"
-      },
-      {
-        "name": "FUSSBALL2 TV FHD",
-        "url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_hd/DASH/index.mpd",
-        "drm_key": "1889c6c8cdf57aa3bc90bb976ca6cbdc:48ef3649d9076965b70e79e58b0028ef"
-      },
-      {
-        "name": "TELEMUNDO [USA]",
-        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
-        "drm_key": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11"
       }
     ]
   },
@@ -2058,11 +1622,26 @@
     "title": "Pakistan W vs Netherlands W",
     "category": "Cricket",
     "event_time": "2026-06-27 09:30",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
       {
-        "name": "Willow HD",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "name": "WILLOW FHD",
+        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fpfokpwebt/out/v1/3c0e5eba7c4944298dc46b564a3226e1/cenc.mpd",
+        "drm_key": "15cb6a46b28fc380faab795e4ade11c7:bc0a81fd5fd0c056f0e25bea5a9deef1"
+      },
+      {
+        "name": "WILLOW ALT",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fpfokpwebt/out/v1/3c0e5eba7c4944298dc46b564a3226e1/cenc.mpd",
+        "drm_key": "15cb6a46b28fc380faab795e4ade11c7:bc0a81fd5fd0c056f0e25bea5a9deef1"
+      },
+      {
+        "name": "SKY SPORT NZ",
+        "url": "https://tmaxapp.site/skynz2.m3u8",
+        "drm_key": ""
+      },
+      {
+        "name": "WILLOW HD",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
         "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
       }
     ]
