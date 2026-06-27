@@ -2,8 +2,8 @@
   {
     "title": "Formula 1 - Austria GP",
     "category": "F1",
-    "event_time": "2026-06-27 10:30",
-    "status": "Live",
+    "event_time": "2026-06-28 13:00",
+    "status": "Upcoming",
     "servers": [
       {
         "name": "FANCODE FHD",
@@ -284,49 +284,6 @@
         "name": "WILLOW [ALT]",
         "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/17flenwlyh/out/v1/eeb7c6d90e4744b0b4c713f449b1fefb/cenc.mpd",
         "drm_key": "2dad9ca825a06ca87ae6d8715547c544:4ac3852a3ae808bef3612a4b6eba2336"
-      }
-    ]
-  },
-  {
-    "title": "England vs New Zealand",
-    "category": "Cricket",
-    "event_time": "2026-06-27 10:00",
-    "status": "Live",
-    "servers": [
-      {
-        "name": "WILLOW FHD",
-        "url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9shuubgs2n/out/v1/71d22d03b6d145c097696ceb34c94193/cenc.mpd",
-        "drm_key": "a1a1f05aaa3fd3bdbee4943cc2c93ae1:bee71825b52bd2810a0085b834d7da6e"
-      },
-      {
-        "name": "SKY CRICKET FHD",
-        "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141",
-        "drm_key": ""
-      },
-      {
-        "name": "WILLOW ALT",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9shuubgs2n/out/v1/71d22d03b6d145c097696ceb34c94193/cenc.mpd",
-        "drm_key": "a1a1f05aaa3fd3bdbee4943cc2c93ae1:bee71825b52bd2810a0085b834d7da6e"
-      },
-      {
-        "name": "SKY MAIN EVENT",
-        "url": "https://tmaxapp.site/skymainevent.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "SKY SPORT NZ",
-        "url": "https://tmaxapp.site/skynz1.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "SonyLiv",
-        "url": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8?hdnea=exp=1782592214~acl=/*~id=8aaddbbca7e2cf5bd61a43d82d2560b1-1782549000245~hmac=391bb99ea28c5b9d20513e97c67843fe3a16afc65aa1c65039fc01b89ff3bf5d",
-        "drm_key": ""
-      },
-      {
-        "name": "FOX CRICKET HD",
-        "url": "https://tmaxapp.site/foxcricket.m3u8",
-        "drm_key": ""
       }
     ]
   },
@@ -1605,34 +1562,6 @@
         "name": "SD SERVER [CN]",
         "url": "https://live06.zuqiu106.com/live/79635460.m3u8",
         "drm_key": ""
-      }
-    ]
-  },
-  {
-    "title": "Pakistan W vs Netherlands W",
-    "category": "Cricket",
-    "event_time": "2026-06-27 09:30",
-    "status": "Live",
-    "servers": [
-      {
-        "name": "WILLOW FHD",
-        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fpfokpwebt/out/v1/3c0e5eba7c4944298dc46b564a3226e1/cenc.mpd",
-        "drm_key": "15cb6a46b28fc380faab795e4ade11c7:bc0a81fd5fd0c056f0e25bea5a9deef1"
-      },
-      {
-        "name": "WILLOW ALT",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fpfokpwebt/out/v1/3c0e5eba7c4944298dc46b564a3226e1/cenc.mpd",
-        "drm_key": "15cb6a46b28fc380faab795e4ade11c7:bc0a81fd5fd0c056f0e25bea5a9deef1"
-      },
-      {
-        "name": "SKY SPORT NZ",
-        "url": "https://tmaxapp.site/skynz2.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "WILLOW HD",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
       }
     ]
   },
