@@ -3,17 +3,12 @@
     "title": "Formula 1 - Austria GP",
     "category": "F1",
     "event_time": "2026-06-27 10:30",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
       {
         "name": "FANCODE FHD",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
         "drm_key": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe"
-      },
-      {
-        "name": "TSN SPORTS FHD",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-        "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
       },
       {
         "name": "SportzX F1 HD",
@@ -21,8 +16,8 @@
         "drm_key": ""
       },
       {
-        "name": "SKY SPORTS FHD",
-        "url": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/c23f741307e2689321d290e69d8d943d/index.m3u8?",
+        "name": "APPLE TV FHD",
+        "url": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/0fd4f8faa595ff8b72b4cf1aeaa818bb/index.m3u8?",
         "drm_key": ""
       },
       {
@@ -301,7 +296,7 @@
     "title": "England vs New Zealand",
     "category": "Cricket",
     "event_time": "2026-06-27 10:00",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
       {
         "name": "WILLOW FHD",
