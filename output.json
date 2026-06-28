@@ -179,64 +179,6 @@
     ]
   },
   {
-    "title": "Ireland vs India",
-    "category": "Cricket",
-    "event_time": "2026-06-28 12:30",
-    "status": "Live",
-    "servers": [
-      {
-        "name": "WILLOW FHD",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/j9ltx4zek5/out/v1/5bb73ac9fa904dcfafc4972c496d831b/cenc.mpd",
-        "drm_key": "3a2433a92dedb0c0c1d7cdc1b5bd8d1b:b78e03fc79ff67f1d68d34a1f0d161b9"
-      },
-      {
-        "name": "TNT Sports FHD",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd",
-        "drm_key": "570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50"
-      },
-      {
-        "name": "WILLOW ALT",
-        "url": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/j9ltx4zek5/out/v1/5bb73ac9fa904dcfafc4972c496d831b/cenc.mpd",
-        "drm_key": "3a2433a92dedb0c0c1d7cdc1b5bd8d1b:b78e03fc79ff67f1d68d34a1f0d161b9"
-      },
-      {
-        "name": "TNT SPORTS HD",
-        "url": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1036.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "WILLOW HD",
-        "url": "https://tmaxapp.site/willoweng.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "Sony Liv [ENG]",
-        "url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi2806/ENG/master.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "Sony Liv [HIN]",
-        "url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037142/cricodi2806/HIN/master.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "Sony Liv [TAM]",
-        "url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi2806/TAM/master.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "Sony Liv [TEL]",
-        "url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/cricodi2806/TEL/master.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "Sony Liv [KAN]",
-        "url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi2806/KAN/master.m3u8",
-        "drm_key": ""
-      }
-    ]
-  },
-  {
     "title": "ONE Friday Fights",
     "category": "Boxing",
     "event_time": "2026-07-03 12:30",
@@ -339,8 +281,13 @@
     "title": "Cardinals vs Miami Marlins",
     "category": "MLB",
     "event_time": "2026-06-28 18:15",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
+      {
+        "name": "SportzX MLB",
+        "url": "https://chatgpt.hereisman.net/playlist/52680/load-playlist?",
+        "drm_key": ""
+      },
       {
         "name": "SportzX LIVE",
         "url": "https://edgestreams.pro/hls/kjhfzua25.m3u8?",
@@ -426,77 +373,63 @@
     ]
   },
   {
-    "title": "Australia W vs India W",
-    "category": "Cricket",
-    "event_time": "2026-06-28 13:30",
+    "title": "Dallas Wings vs Minnesota Lynx",
+    "category": "WNBA",
+    "event_time": "2026-06-28 18:00",
     "status": "Live",
     "servers": [
       {
-        "name": "WILLOW FHD",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9zm2lgklpu/out/v1/260e09111f1c41f2a985c96787453c78/cenc.mpd",
-        "drm_key": "72d7ef3f0057150c0dca2cd74dbfd8bf:1dfdf16e3e483ea953cadb74d48de95a"
-      },
-      {
-        "name": "WILLOW ALT",
-        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9zm2lgklpu/out/v1/260e09111f1c41f2a985c96787453c78/cenc.mpd",
-        "drm_key": "72d7ef3f0057150c0dca2cd74dbfd8bf:1dfdf16e3e483ea953cadb74d48de95a"
-      },
-      {
-        "name": "SKY SPORT NZ",
-        "url": "https://tmaxapp.site/skynz4.m3u8",
+        "name": "SportzX WNBA",
+        "url": "https://chatgpt.hereisman.net/playlist/52671/load-playlist?",
         "drm_key": ""
       },
       {
-        "name": "WILLOW HD",
-        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yuoix8o52c/out/v1/5c380397b3a14f2b94019893c0734d0e/cenc.mpd",
-        "drm_key": "434f07d93d4ba702bed5d41b1cc21d22:065c5585a1b94dc36379421ba923a415"
-      },
-      {
-        "name": "SKY SPORTS PLUS",
-        "url": "https://tmaxapp.site/skyplussd.m3u8",
+        "name": "SportzX Live",
+        "url": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?",
         "drm_key": ""
       }
     ]
   },
   {
-    "title": "West Indies vs Sri Lanka",
-    "category": "Cricket",
-    "event_time": "2026-06-28 14:00",
-    "status": "Live",
+    "title": "Washington Mystics vs Portland Fire",
+    "category": "WNBA",
+    "event_time": "2026-06-28 19:00",
+    "status": "Upcoming",
     "servers": [
       {
-        "name": "CRICBUZZ - AQ",
-        "url": "https://wcupzero.mokakdaoni.me/proxy/wb.php/https://livevideos.cricbuzz.com/hls/live/2110089/MENA-SEA/11946/152416/master.m3u8",
+        "name": "SportzX WNBA",
+        "url": "https://chatgpt.hereisman.net/playlist/52681/load-playlist?",
         "drm_key": ""
       },
       {
-        "name": "TNT Sports FHD",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd",
-        "drm_key": "570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50"
-      },
-      {
-        "name": "WILLOW FHD",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/17flenwlyh/out/v1/eeb7c6d90e4744b0b4c713f449b1fefb/cenc.mpd",
-        "drm_key": "2dad9ca825a06ca87ae6d8715547c544:4ac3852a3ae808bef3612a4b6eba2336"
-      },
-      {
-        "name": "WILLOW ALT",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/17flenwlyh/out/v1/eeb7c6d90e4744b0b4c713f449b1fefb/cenc.mpd",
-        "drm_key": "2dad9ca825a06ca87ae6d8715547c544:4ac3852a3ae808bef3612a4b6eba2336"
-      },
-      {
-        "name": "TNT SPORTS HD",
-        "url": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1034.m3u8",
+        "name": "SportzX Live",
+        "url": "https://edge2caster.pro/hls/ztyarueaghj71.m3u8?",
         "drm_key": ""
-      },
+      }
+    ]
+  },
+  {
+    "title": "Chicago Sky vs Las Vegas Aces",
+    "category": "WNBA",
+    "event_time": "2026-06-28 20:00",
+    "status": "Upcoming",
+    "servers": [
       {
-        "name": "CRICBUZZ HD",
-        "url": "https://sgzero.mokakdaoni.me/proxy/wb.php/https://livevideos.cricbuzz.com/hls/live/2110089/MENA-SEA/11946/152416/master.m3u8",
+        "name": "SportzX Live",
+        "url": "https://edge2caster.pro/hls/pllmazjkdzajh72.m3u8?",
         "drm_key": ""
-      },
+      }
+    ]
+  },
+  {
+    "title": "Valkyries vs Liberty",
+    "category": "WNBA",
+    "event_time": "2026-06-28 23:00",
+    "status": "Upcoming",
+    "servers": [
       {
-        "name": "FANCODE - IN",
-        "url": "https://in-mc-fblive.fancode.com/mumbai/142978_english_hls_84812121a137931_1ta-di_h264/index.m3u8",
+        "name": "SportzX Live",
+        "url": "https://mainstreams.pro/hls/fdgsqdfawa73.m3u8?",
         "drm_key": ""
       }
     ]
@@ -518,6 +451,11 @@
         "drm_key": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144"
       },
       {
+        "name": "TOFFEE BDIX (BD)",
+        "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1750.m3u8?hdntl=Expires=1782756007~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvdiO_355ambhFoF69B98wPT8vxFXjx5FXCMo_xEvHvbQitDBWzQJBqXaaacpD8d8eDXKQpq9DpRVTgrR3FUjPwE",
+        "drm_key": ""
+      },
+      {
         "name": "TSN SPORTS FHD",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
         "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
@@ -534,7 +472,7 @@
       },
       {
         "name": "ITV SPORTS HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52574/load-playlist?",
+        "url": "https://chatgpt.hereisman.net/playlist/52669/load-playlist?",
         "drm_key": ""
       },
       {
@@ -548,11 +486,6 @@
         "drm_key": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
       },
       {
-        "name": "CANAL5 FHD",
-        "url": "https://otte-azion.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-        "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
-      },
-      {
         "name": "TVE La 1 FHD",
         "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
         "drm_key": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54"
@@ -564,8 +497,13 @@
       },
       {
         "name": "CAZE TV FHD",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd",
-        "drm_key": "ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6"
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
+        "drm_key": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38"
+      },
+      {
+        "name": "CANAL5 FHD",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+        "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
       },
       {
         "name": "TELEMUNDO FHD",
@@ -584,7 +522,17 @@
       },
       {
         "name": "TSN SPORTS FHD",
-        "url": "https://lb.xyzcloud3.xyz/tsn1/index.m3u8?",
+        "url": "https://cdn011.viaplus.site/tsn1-xyz.m3u8?",
+        "drm_key": ""
+      },
+      {
+        "name": "FOX ONE HD",
+        "url": "https://cdn011.viaplus.site/fox-usa.m3u8",
+        "drm_key": ""
+      },
+      {
+        "name": "FAST SERVER",
+        "url": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRSY7rKqQKDEh4.m3u8?txSecret=5017c89da696f631799ea5c67faf823b&txTime=6A4194B0",
         "drm_key": ""
       },
       {
@@ -618,18 +566,48 @@
         "drm_key": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
       },
       {
+        "name": "PEACOCK FHD [ALT]",
+        "url": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021693-723551-4913445439f)/master_2hr.mpd?c3.ri=6a416112_Q1ZYMDc_0_RkFTVExZ_681e692eb376%3A0&aws.sessionId=0c556309-69f8-4654-a874-0e685fc0d1fd&ck=eyIwMDIyNjlmY2RlYTE4Y2Q5ODZiYjUxNzg2NDk4MTI4MiI6IjMwMGYzMWFhYTMzOWQ0OWQ0ZmU1NzczMzgyZmVmYzVmIn0%3D",
+        "drm_key": "002269fcdea18cd986bb517864981282:300f31aaa339d49d4fe5773382fefc5f"
+      },
+      {
         "name": "TELEMUNDO [USA]",
         "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
         "drm_key": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11"
       },
       {
+        "name": "FOX ONE 4K",
+        "url": "https://cdn011.viaplus.site/fox4k-usa.m3u8",
+        "drm_key": ""
+      },
+      {
+        "name": "FOX 4K LIVE",
+        "url": "https://cdn011.viaplus.site/fox4k-xyz.m3u8",
+        "drm_key": ""
+      },
+      {
         "name": "TSN SPORTS 4K",
-        "url": "https://lb.xyzcloud3.xyz/tsn4k/index.m3u8?",
+        "url": "https://cdn011.viaplus.site/tsn4k-xyz.m3u8?",
         "drm_key": ""
       },
       {
         "name": "TELEMUNDO FHD",
-        "url": "https://lb.xyzcloud3.xyz/Telemundo/index.m3u8?",
+        "url": "https://cdn011.viaplus.site/telemundo-xyz.m3u8?",
+        "drm_key": ""
+      },
+      {
+        "name": "ARABIC LIVE HD",
+        "url": "https://cdn011.viaplus.site/bein-xyz.m3u8?",
+        "drm_key": ""
+      },
+      {
+        "name": "FUSSBALL TV UHD",
+        "url": "https://cdn011.viaplus.site/fussballtv1uhd-de.m3u8",
+        "drm_key": ""
+      },
+      {
+        "name": "beIN ARABIC 4K",
+        "url": "https://cdn011.viaplus.site/bein4k-xyz.m3u8",
         "drm_key": ""
       },
       {
@@ -648,18 +626,13 @@
         "drm_key": ""
       },
       {
-        "name": "ARABIC LIVE HD",
-        "url": "https://cdn2.xyzstreams.st/bein/index.m3u8?",
-        "drm_key": ""
-      },
-      {
         "name": "FOX SPORTS HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52586/load-playlist?",
+        "url": "https://chatgpt.hereisman.net/playlist/52655/load-playlist?",
         "drm_key": ""
       },
       {
         "name": "TSN SPORTS HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52580/load-playlist?",
+        "url": "https://chatgpt.hereisman.net/playlist/52670/load-playlist?",
         "drm_key": ""
       },
       {
@@ -689,12 +662,17 @@
       },
       {
         "name": "HD SERVER ENG",
-        "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?",
+        "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?",
         "drm_key": ""
       },
       {
         "name": "HD SERVER AR",
-        "url": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?",
+        "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?",
+        "drm_key": ""
+      },
+      {
+        "name": "HD SERVER ES",
+        "url": "https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?",
         "drm_key": ""
       },
       {
@@ -2339,7 +2317,7 @@
     "title": "Baltimore Orioles vs Nationals",
     "category": "MLB",
     "event_time": "2026-06-28 17:35",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
       {
         "name": "SportzX MLB",
@@ -2362,7 +2340,7 @@
     "title": "Pittsburgh Pirates vs Cincinnati Reds",
     "category": "MLB",
     "event_time": "2026-06-28 17:35",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
       {
         "name": "SportzX MLB",
@@ -2385,7 +2363,7 @@
     "title": "Toronto Blue Jays vs Texas Rangers",
     "category": "MLB",
     "event_time": "2026-06-28 17:37",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
       {
         "name": "SportzX MLB",
@@ -2408,7 +2386,7 @@
     "title": "Guardians vs Seattle Mariners",
     "category": "MLB",
     "event_time": "2026-06-28 17:40",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
       {
         "name": "SportzX MLB",
@@ -2431,7 +2409,7 @@
     "title": "Detroit Tigers vs Houston Astros",
     "category": "MLB",
     "event_time": "2026-06-28 17:40",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
       {
         "name": "SportzX MLB",
@@ -2454,7 +2432,7 @@
     "title": "New York Mets vs Philadelphia Phillies",
     "category": "MLB",
     "event_time": "2026-06-28 17:40",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
       {
         "name": "SportzX MLB",
@@ -2477,7 +2455,7 @@
     "title": "Tampa Bay Rays vs Diamondbacks",
     "category": "MLB",
     "event_time": "2026-06-28 17:40",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
       {
         "name": "SportzX MLB",
@@ -2500,8 +2478,13 @@
     "title": "Chicago White Sox vs Royals",
     "category": "MLB",
     "event_time": "2026-06-28 18:10",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
+      {
+        "name": "SportzX MLB",
+        "url": "https://chatgpt.hereisman.net/playlist/52673/load-playlist?",
+        "drm_key": ""
+      },
       {
         "name": "SportzX Live",
         "url": "https://edge2caster.pro/hls/fskjanach24.m3u8?",
@@ -2518,8 +2501,13 @@
     "title": "Milwaukee Brewers vs Chicago Cubs",
     "category": "MLB",
     "event_time": "2026-06-28 18:10",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
+      {
+        "name": "SportzX MLB",
+        "url": "https://chatgpt.hereisman.net/playlist/52677/load-playlist?",
+        "drm_key": ""
+      },
       {
         "name": "SportzX Live",
         "url": "https://edge2caster.pro/hls/ijfnakfidch22.m3u8?",
@@ -2536,8 +2524,13 @@
     "title": "Minnesota Twins vs Colorado Rockies",
     "category": "MLB",
     "event_time": "2026-06-28 18:10",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
+      {
+        "name": "SportzX MLB",
+        "url": "https://chatgpt.hereisman.net/playlist/52675/load-playlist?",
+        "drm_key": ""
+      },
       {
         "name": "SportzX Live",
         "url": "https://edge2caster.pro/hls/jnzkdzjfanch23.m3u8?",
