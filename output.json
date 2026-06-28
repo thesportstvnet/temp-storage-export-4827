@@ -3,8 +3,23 @@
     "title": "Formula 1 - Austria GP",
     "category": "F1",
     "event_time": "2026-06-28 13:00",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
+      {
+        "name": "APPLE TV+ FHD",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/uivuundx0o/out/v1/847ce646e6b5442491682bbb6602be11/cenc.mpd",
+        "drm_key": "1fa42226476f1e88ee7a3430684e3ee4:95d04e9596bb63db9ee5ad6b25035786"
+      },
+      {
+        "name": "TSN SPORTS FHD",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+        "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
+      },
+      {
+        "name": "SKY SPORTS FEED",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3mfnptraqh/out/v1/05b575b744274766a37f6a6241aa0309/cenc.mpd",
+        "drm_key": "e7a2aaef0a290e8c7c6b60465e4c4ccf:19c6e9904c23e34d62d92d871d6b96b6"
+      },
       {
         "name": "FANCODE FHD",
         "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
@@ -16,8 +31,23 @@
         "drm_key": ""
       },
       {
-        "name": "APPLE TV FHD",
+        "name": "SKY F1 FHD",
         "url": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/dd1edec200ffc32f52a13bf21908ee2c/index.m3u8?",
+        "drm_key": ""
+      },
+      {
+        "name": "SKY F1 4K",
+        "url": "https://inproviszon.st/sky-sports-f1-uhd.m3u8",
+        "drm_key": ""
+      },
+      {
+        "name": "APPLE TV HD",
+        "url": "https://inproviszon.st/f1-on-apple.m3u8?",
+        "drm_key": ""
+      },
+      {
+        "name": "APPLE TV FHD",
+        "url": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/d133aa244a9421ae99a205193c5bab1a/index.m3u8?",
         "drm_key": ""
       },
       {
@@ -28,11 +58,6 @@
       {
         "name": "SKY ITALY FHD",
         "url": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/e59af8524947f13a9dc820e272115f32/index.m3u8?",
-        "drm_key": ""
-      },
-      {
-        "name": "PRIME TV FHD",
-        "url": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/d133aa244a9421ae99a205193c5bab1a/index.m3u8?",
         "drm_key": ""
       },
       {
@@ -121,62 +146,29 @@
     ]
   },
   {
-    "title": "Zimbabwe vs Bangladesh",
-    "category": "Cricket",
-    "event_time": "2026-06-28 07:30",
-    "status": "Live",
-    "servers": [
-      {
-        "name": "Tapmad HD+",
-        "url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780573506~acl=/hls/?",
-        "drm_key": ""
-      },
-      {
-        "name": "TAPMAD FHD",
-        "url": "https://pastebin.com/raw/U2LaqQne?&.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "FANCODE (BD)",
-        "url": "https://raw.githubusercontent.com/srhady/Fancode-bd/refs/heads/main/raw_link/bangladesh_vs_zimbabwe_143399_english.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "FANCODE - IN",
-        "url": "https://in-mc-fblive.fancode.com/mumbai/143399_english_hls_b76266f66a74436_1ta-di_h264/index.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "FANCODE - SD",
-        "url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-        "drm_key": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e"
-      }
-    ]
-  },
-  {
     "title": "Ireland vs India",
     "category": "Cricket",
     "event_time": "2026-06-28 12:30",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
+      {
+        "name": "WILLOW FHD",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/j9ltx4zek5/out/v1/5bb73ac9fa904dcfafc4972c496d831b/cenc.mpd",
+        "drm_key": "3a2433a92dedb0c0c1d7cdc1b5bd8d1b:b78e03fc79ff67f1d68d34a1f0d161b9"
+      },
       {
         "name": "TNT Sports FHD",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd",
         "drm_key": "570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50"
       },
       {
-        "name": "WILLOW FHD",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wkyr0oiayl/out/v1/ab6df1604fe34712a1a5bc16cc8489c3/cenc.mpd",
-        "drm_key": "fff0c88530698729506de226786a0ce2:473273ba6a5323ff4174a55ab2e3dfca"
-      },
-      {
         "name": "WILLOW ALT",
-        "url": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wkyr0oiayl/out/v1/ab6df1604fe34712a1a5bc16cc8489c3/cenc.mpd",
-        "drm_key": "fff0c88530698729506de226786a0ce2:473273ba6a5323ff4174a55ab2e3dfca"
+        "url": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/j9ltx4zek5/out/v1/5bb73ac9fa904dcfafc4972c496d831b/cenc.mpd",
+        "drm_key": "3a2433a92dedb0c0c1d7cdc1b5bd8d1b:b78e03fc79ff67f1d68d34a1f0d161b9"
       },
       {
         "name": "TNT SPORTS HD",
-        "url": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1033.m3u8",
+        "url": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1036.m3u8",
         "drm_key": ""
       },
       {
@@ -185,28 +177,28 @@
         "drm_key": ""
       },
       {
-        "name": "SonyLiv - ENG",
-        "url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi2606/ENG/master.m3u8",
+        "name": "Sony Liv [ENG]",
+        "url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi2806/ENG/master.m3u8",
         "drm_key": ""
       },
       {
-        "name": "SonyLiv - HIN",
-        "url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi2606/HIN/master.m3u8",
+        "name": "Sony Liv [HIN]",
+        "url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037142/cricodi2806/HIN/master.m3u8",
         "drm_key": ""
       },
       {
-        "name": "SonyLiv - TAM",
-        "url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/cricodi2606/TAM/master.m3u8",
+        "name": "Sony Liv [TAM]",
+        "url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi2806/TAM/master.m3u8",
         "drm_key": ""
       },
       {
-        "name": "SonyLiv - TEL",
-        "url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037142/cricodi2606/TEL/master.m3u8",
+        "name": "Sony Liv [TEL]",
+        "url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/cricodi2806/TEL/master.m3u8",
         "drm_key": ""
       },
       {
-        "name": "SonyLiv - KAN",
-        "url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi2606/KAN/master.m3u8",
+        "name": "Sony Liv [KAN]",
+        "url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi2806/KAN/master.m3u8",
         "drm_key": ""
       }
     ]
@@ -419,27 +411,32 @@
     "title": "Australia W vs India W",
     "category": "Cricket",
     "event_time": "2026-06-28 13:30",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
       {
         "name": "WILLOW FHD",
-        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/nycwhuave7/out/v1/051d0b0ae17442c4b5636fc1c96b8e2f/cenc.mpd",
-        "drm_key": "5f1cc0a032196b308b0a54f1a32ef10b:08d8911aead804e7417da0b280e1110c"
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9zm2lgklpu/out/v1/260e09111f1c41f2a985c96787453c78/cenc.mpd",
+        "drm_key": "72d7ef3f0057150c0dca2cd74dbfd8bf:1dfdf16e3e483ea953cadb74d48de95a"
       },
       {
         "name": "WILLOW ALT",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nycwhuave7/out/v1/051d0b0ae17442c4b5636fc1c96b8e2f/cenc.mpd",
-        "drm_key": "5f1cc0a032196b308b0a54f1a32ef10b:08d8911aead804e7417da0b280e1110c"
+        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9zm2lgklpu/out/v1/260e09111f1c41f2a985c96787453c78/cenc.mpd",
+        "drm_key": "72d7ef3f0057150c0dca2cd74dbfd8bf:1dfdf16e3e483ea953cadb74d48de95a"
       },
       {
         "name": "SKY SPORT NZ",
-        "url": "https://tmaxapp.site/skynz2.m3u8",
+        "url": "https://tmaxapp.site/skynz4.m3u8",
         "drm_key": ""
       },
       {
         "name": "WILLOW HD",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yuoix8o52c/out/v1/5c380397b3a14f2b94019893c0734d0e/cenc.mpd",
+        "drm_key": "434f07d93d4ba702bed5d41b1cc21d22:065c5585a1b94dc36379421ba923a415"
+      },
+      {
+        "name": "SKY SPORTS PLUS",
+        "url": "https://tmaxapp.site/skyplussd.m3u8",
+        "drm_key": ""
       }
     ]
   },
@@ -447,17 +444,17 @@
     "title": "West Indies vs Sri Lanka",
     "category": "Cricket",
     "event_time": "2026-06-28 14:00",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
-      {
-        "name": "TNT Sports FHD",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd",
-        "drm_key": "570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50"
-      },
       {
         "name": "CRICBUZZ - AQ",
         "url": "https://wcupzero.mokakdaoni.me/proxy/wb.php/https://livevideos.cricbuzz.com/hls/live/2110089/MENA-SEA/11946/152416/master.m3u8",
         "drm_key": ""
+      },
+      {
+        "name": "TNT Sports FHD",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd",
+        "drm_key": "570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50"
       },
       {
         "name": "WILLOW FHD",
@@ -465,9 +462,24 @@
         "drm_key": "2dad9ca825a06ca87ae6d8715547c544:4ac3852a3ae808bef3612a4b6eba2336"
       },
       {
-        "name": "WILLOW [ALT]",
-        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/17flenwlyh/out/v1/eeb7c6d90e4744b0b4c713f449b1fefb/cenc.mpd",
+        "name": "WILLOW ALT",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/17flenwlyh/out/v1/eeb7c6d90e4744b0b4c713f449b1fefb/cenc.mpd",
         "drm_key": "2dad9ca825a06ca87ae6d8715547c544:4ac3852a3ae808bef3612a4b6eba2336"
+      },
+      {
+        "name": "TNT SPORTS HD",
+        "url": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1034.m3u8",
+        "drm_key": ""
+      },
+      {
+        "name": "CRICBUZZ HD",
+        "url": "https://sgzero.mokakdaoni.me/proxy/wb.php/https://livevideos.cricbuzz.com/hls/live/2110089/MENA-SEA/11946/152416/master.m3u8",
+        "drm_key": ""
+      },
+      {
+        "name": "FANCODE - IN",
+        "url": "https://in-mc-fblive.fancode.com/mumbai/142978_english_hls_84812121a137931_1ta-di_h264/index.m3u8",
+        "drm_key": ""
       }
     ]
   },
