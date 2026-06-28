@@ -146,6 +146,39 @@
     ]
   },
   {
+    "title": "Zimbabwe vs Bangladesh",
+    "category": "Cricket",
+    "event_time": "2026-06-29 07:30",
+    "status": "Upcoming",
+    "servers": [
+      {
+        "name": "Tapmad HD+",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780573506~acl=/hls/?",
+        "drm_key": ""
+      },
+      {
+        "name": "TAPMAD FHD",
+        "url": "https://pastebin.com/raw/U2LaqQne?&.m3u8",
+        "drm_key": ""
+      },
+      {
+        "name": "FANCODE (BD)",
+        "url": "https://raw.githubusercontent.com/srhady/Fancode-bd/refs/heads/main/raw_link/bangladesh_vs_zimbabwe_143399_english.m3u8",
+        "drm_key": ""
+      },
+      {
+        "name": "FANCODE - IN",
+        "url": "https://in-mc-fblive.fancode.com/mumbai/143399_english_hls_b76266f66a74436_1ta-di_h264/index.m3u8",
+        "drm_key": ""
+      },
+      {
+        "name": "FANCODE - SD",
+        "url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+        "drm_key": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e"
+      }
+    ]
+  },
+  {
     "title": "Ireland vs India",
     "category": "Cricket",
     "event_time": "2026-06-28 12:30",
@@ -328,7 +361,7 @@
     "servers": [
       {
         "name": "SportzX Live",
-        "url": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?",
+        "url": "https://edgestreams.pro/hls/dzjhkfazbka26.m3u8?",
         "drm_key": ""
       },
       {
@@ -345,13 +378,8 @@
     "status": "Upcoming",
     "servers": [
       {
-        "name": "SportzX MLB",
-        "url": "https://chatgpt.hereisman.net/playlist/52643/load-playlist?",
-        "drm_key": ""
-      },
-      {
         "name": "SportzX Live",
-        "url": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8?",
+        "url": "https://edge2caster.pro/hls/jzabfazkbf27.m3u8?",
         "drm_key": ""
       },
       {
@@ -368,13 +396,8 @@
     "status": "Upcoming",
     "servers": [
       {
-        "name": "SportzX MLB",
-        "url": "https://chatgpt.hereisman.net/playlist/52646/load-playlist?",
-        "drm_key": ""
-      },
-      {
         "name": "SportzX Live",
-        "url": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?",
+        "url": "https://edge2caster.pro/hls/hefbafbakx28.m3u8?",
         "drm_key": ""
       },
       {
@@ -390,11 +413,6 @@
     "event_time": "2026-06-28 23:20",
     "status": "Upcoming",
     "servers": [
-      {
-        "name": "SportzX MLB",
-        "url": "https://chatgpt.hereisman.net/playlist/52647/load-playlist?",
-        "drm_key": ""
-      },
       {
         "name": "SportzX Live",
         "url": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?",
@@ -2376,47 +2394,19 @@
     ]
   },
   {
-    "title": "South Africa W vs Bangladesh W",
-    "category": "Cricket",
-    "event_time": "2026-06-28 09:30",
-    "status": "Live",
-    "servers": [
-      {
-        "name": "WILLOW FHD",
-        "url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qen7i3mgzj/out/v1/d8b801ea1477401b9759bd7aa9fccd86/cenc.mpd",
-        "drm_key": "321beaffa646cda1512b2e09eb51d670:da91d675986084c80c0e2013d1efb085"
-      },
-      {
-        "name": "WILLOW ALT",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/t1pm3hqfu8/out/v1/bf8327889d3648f4993d38fee45e6925/cenc.mpd",
-        "drm_key": "b0834782ca43719ac4088e9b1e360578:df228a7544f6e6d9b9fc8dea82205daa"
-      },
-      {
-        "name": "SKY SPORT NZ",
-        "url": "https://tmaxapp.site/skynz4.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "SKY SPORTS PLUS",
-        "url": "https://tmaxapp.site/skyplussd.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "WILLOW HD",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-      }
-    ]
-  },
-  {
     "title": "Baltimore Orioles vs Nationals",
     "category": "MLB",
     "event_time": "2026-06-28 17:35",
     "status": "Upcoming",
     "servers": [
       {
+        "name": "SportzX Live",
+        "url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?",
+        "drm_key": ""
+      },
+      {
         "name": "HD SERVER",
-        "url": "https://instreams.pro/US/MLB1/tracks-v1a1/mono.m3u8?",
+        "url": "https://instreams.pro/US/MLB2/tracks-v1a1/mono.m3u8?",
         "drm_key": ""
       }
     ]
@@ -2427,6 +2417,11 @@
     "event_time": "2026-06-28 17:35",
     "status": "Upcoming",
     "servers": [
+      {
+        "name": "SportzX Live",
+        "url": "https://edgestreams.pro/hls/dazhfiach15.m3u8?",
+        "drm_key": ""
+      },
       {
         "name": "HD SERVER",
         "url": "https://instreams.pro/US/MLB1/tracks-v1a1/mono.m3u8?",
@@ -2441,8 +2436,13 @@
     "status": "Upcoming",
     "servers": [
       {
+        "name": "SportzX Live",
+        "url": "https://edge2caster.pro/hls/ihfazugfyjcazich17.m3u8?",
+        "drm_key": ""
+      },
+      {
         "name": "HD SERVER",
-        "url": "https://instreams.pro/US/MLB1/tracks-v1a1/mono.m3u8?",
+        "url": "https://instreams.pro/US/MLB3/tracks-v1a1/mono.m3u8?",
         "drm_key": ""
       }
     ]
@@ -2454,8 +2454,13 @@
     "status": "Upcoming",
     "servers": [
       {
+        "name": "SportzX Live",
+        "url": "https://edge2caster.pro/hls/ojzkajnach21.m3u8?",
+        "drm_key": ""
+      },
+      {
         "name": "HD SERVER",
-        "url": "https://instreams.pro/US/MLB1/tracks-v1a1/mono.m3u8?",
+        "url": "https://instreams.pro/US/MLB7/tracks-v1a1/mono.m3u8?",
         "drm_key": ""
       }
     ]
@@ -2467,8 +2472,13 @@
     "status": "Upcoming",
     "servers": [
       {
+        "name": "SportzX Live",
+        "url": "https://mainstreams.pro/hls/bzagLHzach19.m3u8?",
+        "drm_key": ""
+      },
+      {
         "name": "HD SERVER",
-        "url": "https://instreams.pro/US/MLB1/tracks-v1a1/mono.m3u8?",
+        "url": "https://instreams.pro/US/MLB5/tracks-v1a1/mono.m3u8?",
         "drm_key": ""
       }
     ]
@@ -2480,8 +2490,13 @@
     "status": "Upcoming",
     "servers": [
       {
+        "name": "SportzX Live",
+        "url": "https://edgestreams.pro/hls/jkzahzadach20.m3u8?",
+        "drm_key": ""
+      },
+      {
         "name": "HD SERVER",
-        "url": "https://instreams.pro/US/MLB1/tracks-v1a1/mono.m3u8?",
+        "url": "https://instreams.pro/US/MLB6/tracks-v1a1/mono.m3u8?",
         "drm_key": ""
       }
     ]
@@ -2493,8 +2508,13 @@
     "status": "Upcoming",
     "servers": [
       {
+        "name": "SportzX Live",
+        "url": "https://edgestreams.pro/hls/Czajafjihafch18.m3u8?",
+        "drm_key": ""
+      },
+      {
         "name": "HD SERVER",
-        "url": "https://instreams.pro/US/MLB1/tracks-v1a1/mono.m3u8?",
+        "url": "https://instreams.pro/US/MLB4/tracks-v1a1/mono.m3u8?",
         "drm_key": ""
       }
     ]
@@ -2506,8 +2526,13 @@
     "status": "Upcoming",
     "servers": [
       {
+        "name": "SportzX Live",
+        "url": "https://edge2caster.pro/hls/fskjanach24.m3u8?",
+        "drm_key": ""
+      },
+      {
         "name": "HD SERVER",
-        "url": "https://instreams.pro/US/MLB1/tracks-v1a1/mono.m3u8?",
+        "url": "https://instreams.pro/US/MLB10/tracks-v1a1/mono.m3u8?",
         "drm_key": ""
       }
     ]
@@ -2519,8 +2544,13 @@
     "status": "Upcoming",
     "servers": [
       {
+        "name": "SportzX Live",
+        "url": "https://edge2caster.pro/hls/ijfnakfidch22.m3u8?",
+        "drm_key": ""
+      },
+      {
         "name": "HD SERVER",
-        "url": "https://instreams.pro/US/MLB1/tracks-v1a1/mono.m3u8?",
+        "url": "https://instreams.pro/US/MLB8/tracks-v1a1/mono.m3u8?",
         "drm_key": ""
       }
     ]
@@ -2532,8 +2562,13 @@
     "status": "Upcoming",
     "servers": [
       {
+        "name": "SportzX Live",
+        "url": "https://edge2caster.pro/hls/jnzkdzjfanch23.m3u8?",
+        "drm_key": ""
+      },
+      {
         "name": "HD SERVER",
-        "url": "https://instreams.pro/US/MLB1/tracks-v1a1/mono.m3u8?",
+        "url": "https://instreams.pro/US/MLB9/tracks-v1a1/mono.m3u8?",
         "drm_key": ""
       }
     ]
