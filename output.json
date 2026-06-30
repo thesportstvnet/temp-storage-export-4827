@@ -1493,7 +1493,7 @@
     "title": "Côte d'Ivoire vs Norway",
     "category": "FIFA World Cup",
     "event_time": "2026-06-30 17:00",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
       {
         "name": "FOX ONE - AQ",
@@ -1506,9 +1506,14 @@
         "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
       },
       {
+        "name": "TOFFE BDIX (BD)",
+        "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8?hdntl=Expires=1782922806~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclARQvh9KugwsFBqOq0ztT-hbEaYUDpI22Im_-Li-9JNI9p-YgQy-1YMra5-zI4biaAt0PAEOT0MpWcm255mQ5QC",
+        "drm_key": ""
+      },
+      {
         "name": "Binge BDIX (BD)",
         "url": "https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8",
-        "drm_key": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d"
+        "drm_key": ""
       },
       {
         "name": "WC TV FHD",
@@ -1522,7 +1527,7 @@
       },
       {
         "name": "RTE SPORTS FHD",
-        "url": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/6b0f1602-73b1-4228-8e64-fe2cec5ae9a3:BRU/manifest.mpd",
+        "url": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/e101edda-ef7f-4ff8-b6a5-4453db98fb2e:GRQ/manifest.mpd",
         "drm_key": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d"
       },
       {
@@ -1562,7 +1567,7 @@
       },
       {
         "name": "BBC SPORTS HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52621/load-playlist?",
+        "url": "https://chatgpt.hereisman.net/playlist/52736/load-playlist?",
         "drm_key": ""
       },
       {
@@ -1572,22 +1577,27 @@
       },
       {
         "name": "FOX ONE HD",
-        "url": "https://cdn011.viaplus.site/fox-xyz.m3u8",
+        "url": "https://inproviszon.st/fox-usa.m3u8",
         "drm_key": ""
       },
       {
         "name": "TSN SPORTS HD",
-        "url": "https://cdn011.viaplus.site/tsn1-xyz.m3u8",
+        "url": "https://inproviszon.st/tsn1-xyz.m3u8",
         "drm_key": ""
       },
       {
         "name": "beIN MAX HD",
-        "url": "https://cdn011.viaplus.site/bein-xyz.m3u8",
+        "url": "https://inproviszon.st/bein-xyz.m3u8",
+        "drm_key": ""
+      },
+      {
+        "name": "FAST SERVER",
+        "url": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRSYcqkSDLDK2v.m3u8?txSecret=8ded90204e6c7223fb91b0c65c0f40d1&txTime=6A4419B0",
         "drm_key": ""
       },
       {
         "name": "TELEMUNDO HD",
-        "url": "https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8?",
+        "url": "https://instreams.pro/US/NFLHD2/tracks-v1a1/mono.m3u8?",
         "drm_key": ""
       },
       {
@@ -1616,6 +1626,11 @@
         "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
       },
       {
+        "name": "PEACOCK FHD [ALT]",
+        "url": "https://g003-sle-us-cmaf-prd-ak.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021700-723558-49134b01366)/master_2hr.mpd?c3.ri=6a43f01f_Q1ZYMDc_0_QUtBTUFJ_d8f9151c00b3%3A0&aws.sessionId=bff46f17-7dcb-41fd-b1b9-1428d6b4ccae",
+        "drm_key": "0022fe4cfc08704d50a5c30ad622365c:ec1eb7a4a6401cb60f4a44f7fb3fd98e"
+      },
+      {
         "name": "TELEMUNDO [USA]",
         "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
         "drm_key": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11"
@@ -1627,27 +1642,32 @@
       },
       {
         "name": "FOX ONE 4K",
-        "url": "https://cdn011.viaplus.site/fox4k-usa.m3u8",
+        "url": "https://inproviszon.st/fox4k-usa.m3u8",
         "drm_key": ""
       },
       {
         "name": "FOX 4K LIVE",
-        "url": "https://cdn011.viaplus.site/fox4k-usa.m3u8",
+        "url": "https://inproviszon.st/fox4k-usa.m3u8",
         "drm_key": ""
       },
       {
         "name": "TELEMUNDO FHD",
-        "url": "https://cdn011.viaplus.site/telemundo-usa.m3u8",
+        "url": "https://inproviszon.st/telemundo-usa.m3u8",
         "drm_key": ""
       },
       {
         "name": "DAZN MUNDIAL",
-        "url": "https://cdn011.viaplus.site/daznmundial-es.m3u8",
+        "url": "https://inproviszon.st/daznmundial-es.m3u8",
         "drm_key": ""
       },
       {
         "name": "FUSSBALL TV UHD",
-        "url": "https://cdn011.viaplus.site/fussballtv1uhd-de.m3u8",
+        "url": "https://inproviszon.st/fussballtv1uhd-de.m3u8",
+        "drm_key": ""
+      },
+      {
+        "name": "ARABIC LIVE FHD",
+        "url": "https://inproviszon.st/bein4k-xyz.m3u8",
         "drm_key": ""
       },
       {
@@ -1667,12 +1687,12 @@
       },
       {
         "name": "TSN SPORTS HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52620/load-playlist?",
+        "url": "https://chatgpt.hereisman.net/playlist/52737/load-playlist?",
         "drm_key": ""
       },
       {
         "name": "FOX SPORTS HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52621/load-playlist?",
+        "url": "https://chatgpt.hereisman.net/playlist/52735/load-playlist?",
         "drm_key": ""
       },
       {
