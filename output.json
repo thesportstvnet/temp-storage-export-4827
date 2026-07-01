@@ -268,7 +268,7 @@
     "title": "Houston Astros vs Minnesota Twins",
     "category": "MLB",
     "event_time": "2026-07-01 00:10",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
       {
         "name": "SportzX LIVE",
@@ -1736,6 +1736,11 @@
         "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
       },
       {
+        "name": "TOFFE BDIX (BD)",
+        "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/sst/0/master_1500.m3u8?hdntl=Expires=1782946812~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclCOv2Z_yETZH-kX0wFe3dZzYcC3D9cgdqbNc5nzdA8NnzteW16KsszBhMwD5Hm2of1hjr80fPkuOkiYaADLpZoB",
+        "drm_key": ""
+      },
+      {
         "name": "Binge BDIX (BD)",
         "url": "https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8",
         "drm_key": ""
@@ -1757,7 +1762,7 @@
       },
       {
         "name": "CANAL5 FHD",
-        "url": "https://otte-azion.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
         "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
       },
       {
@@ -1851,43 +1856,48 @@
         "drm_key": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
       },
       {
+        "name": "ITV SPORTS [ALT]",
+        "url": "https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
+        "drm_key": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144"
+      },
+      {
         "name": "TELEMUNDO [USA]",
         "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
         "drm_key": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11"
       },
       {
         "name": "FOX ONE 4K",
-        "url": "https://lb.xyzcloud3.xyz/fox4k/index.m3u8?",
+        "url": "https://inproviszon.st/fox4k-usa.m3u8",
         "drm_key": ""
       },
       {
         "name": "FOX 4K LIVE",
-        "url": "https://nhjjhhjhjjhfjj.pages.dev/1782615719/3042d307c04a4e44bdb3ab8999929e43/HsGGS83WG7ArEKLUyEMQ8HQWSZK6hJuksjUHH1BT0LI/fox4k-usa.m3u8",
+        "url": "https://inproviszon.st/fox4k-usa.m3u8",
         "drm_key": ""
       },
       {
         "name": "TSN SPORTS 4K",
-        "url": "https://lb.xyzcloud3.xyz/tsn4k/index.m3u8?",
+        "url": "https://inproviszon.st/tsn4k-xyz-waUvqaAACr.m3u8",
         "drm_key": ""
       },
       {
         "name": "TELEMUNDO FHD",
-        "url": "https://lb.xyzcloud3.xyz/Telemundo/index.m3u8?",
+        "url": "https://inproviszon.st/telemundo-usa.m3u8",
         "drm_key": ""
       },
       {
         "name": "FUSSBALL TV UHD",
-        "url": "https://nhjjhhjhjjhfjj.pages.dev/1782615736/7fde7c1f31354697a1b833d59e960fc6/gKYNPGggph0n7qBwb-8AZJC-8UaeLxuyh1WOqkSw534/fusballtv1uhd-de.m3u8",
+        "url": "https://inproviszon.st/fussballtv1uhd-de.m3u8",
         "drm_key": ""
       },
       {
         "name": "beIN SPORTS 4K",
-        "url": "https://lb.xyzcloud3.xyz/bein4k/index.m3u8?",
+        "url": "https://inproviszon.st/bein4k-xyz-waUvqaAACr.m3u8",
         "drm_key": ""
       },
       {
         "name": "ARABIC LIVE FHD",
-        "url": "https://lb.xyzcloud3.xyz/bein/index.m3u8?",
+        "url": "https://inproviszon.st/bein-xyz-waUvqaAACr.m3u8",
         "drm_key": ""
       },
       {
@@ -1917,7 +1927,7 @@
       },
       {
         "name": "SportzX Live",
-        "url": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8?",
+        "url": "https://instreams.pro/US/NFLHD1/tracks-v1a1/mono.m3u8?",
         "drm_key": ""
       },
       {
@@ -1937,12 +1947,17 @@
       },
       {
         "name": "HD SERVER ENG",
-        "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?",
+        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?",
         "drm_key": ""
       },
       {
         "name": "HD SERVER AR",
-        "url": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?",
+        "url": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?",
+        "drm_key": ""
+      },
+      {
+        "name": "HD SERVER ES",
+        "url": "https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?",
         "drm_key": ""
       },
       {
@@ -1971,9 +1986,9 @@
         "drm_key": "1889c6c8cdf57aa3bc90bb976ca6cbdc:48ef3649d9076965b70e79e58b0028ef"
       },
       {
-        "name": "ITV SPORTS [ALT]",
-        "url": "https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
-        "drm_key": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144"
+        "name": "TOFFEE - AQ (BDIX)",
+        "url": "https://pastebin.com/raw/nJ3WYKnG?e=.m3u8",
+        "drm_key": ""
       }
     ]
   },
@@ -2197,6 +2212,11 @@
     "status": "Live",
     "servers": [
       {
+        "name": "SportzX MLB",
+        "url": "https://chatgpt.hereisman.net/playlist/52743/load-playlist?",
+        "drm_key": ""
+      },
+      {
         "name": "SportzX Live",
         "url": "https://edgestreams.pro/hls/dazhfiach15.m3u8?",
         "drm_key": ""
@@ -2214,6 +2234,11 @@
     "event_time": "2026-06-30 22:40",
     "status": "Live",
     "servers": [
+      {
+        "name": "SportzX MLB",
+        "url": "https://chatgpt.hereisman.net/playlist/52747/load-playlist?",
+        "drm_key": ""
+      },
       {
         "name": "SportzX Live",
         "url": "https://edgestreams.pro/hls/ihfazugfyjcazich17.m3u8?",
@@ -2233,6 +2258,11 @@
     "status": "Live",
     "servers": [
       {
+        "name": "SportzX MLB",
+        "url": "https://chatgpt.hereisman.net/playlist/52745/load-playlist?",
+        "drm_key": ""
+      },
+      {
         "name": "SportzX Live",
         "url": "https://edge2caster.pro/hls/16yuitzaerghbhc16.m3u8?",
         "drm_key": ""
@@ -2248,8 +2278,13 @@
     "title": "New York Yankees vs Detroit Tigers",
     "category": "MLB",
     "event_time": "2026-06-30 23:05",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
+      {
+        "name": "SportzX MLB",
+        "url": "https://chatgpt.hereisman.net/playlist/52749/load-playlist?",
+        "drm_key": ""
+      },
       {
         "name": "SportzX Live",
         "url": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8?",
@@ -2266,8 +2301,13 @@
     "title": "Toronto Blue Jays vs New York Mets",
     "category": "MLB",
     "event_time": "2026-06-30 23:07",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
+      {
+        "name": "SportzX MLB",
+        "url": "https://chatgpt.hereisman.net/playlist/52751/load-playlist?",
+        "drm_key": ""
+      },
       {
         "name": "SportzX Live",
         "url": "https://edgestreams.pro/hls/bzagLHzach19.m3u8?",
@@ -2284,8 +2324,13 @@
     "title": "Boston Red Sox vs Nationals",
     "category": "MLB",
     "event_time": "2026-06-30 23:10",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
+      {
+        "name": "SportzX MLB",
+        "url": "https://chatgpt.hereisman.net/playlist/52753/load-playlist?",
+        "drm_key": ""
+      },
       {
         "name": "SportzX Live",
         "url": "https://mainstreams.pro/hls/jkzahzadach20.m3u8?",
@@ -2302,8 +2347,13 @@
     "title": "Atlanta Braves vs St. Louis Cardinals",
     "category": "MLB",
     "event_time": "2026-06-30 23:15",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
+      {
+        "name": "SportzX MLB",
+        "url": "https://chatgpt.hereisman.net/playlist/52755/load-playlist?",
+        "drm_key": ""
+      },
       {
         "name": "SportzX Live",
         "url": "https://edgestreams.pro/hls/ojzkajnach21.m3u8?",
@@ -2320,8 +2370,13 @@
     "title": "Kansas City Royals vs Tampa Bay Rays",
     "category": "MLB",
     "event_time": "2026-06-30 23:40",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
+      {
+        "name": "SportzX MLB",
+        "url": "https://chatgpt.hereisman.net/playlist/52758/load-playlist?",
+        "drm_key": ""
+      },
       {
         "name": "SportzX Live",
         "url": "https://edge2caster.pro/hls/jnzkdzjfanch23.m3u8?",
@@ -2338,8 +2393,13 @@
     "title": "Milwaukee Brewers vs Cincinnati Reds",
     "category": "MLB",
     "event_time": "2026-06-30 23:40",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
+      {
+        "name": "SportzX MLB",
+        "url": "https://chatgpt.hereisman.net/playlist/52759/load-playlist?",
+        "drm_key": ""
+      },
       {
         "name": "SportzX Live",
         "url": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?",
@@ -2356,7 +2416,7 @@
     "title": "Chicago Cubs vs San Diego Padres",
     "category": "MLB",
     "event_time": "2026-07-01 00:05",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
       {
         "name": "SportzX Live",
